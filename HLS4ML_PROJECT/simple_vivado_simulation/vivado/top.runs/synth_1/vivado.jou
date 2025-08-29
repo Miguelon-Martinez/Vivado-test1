@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Aug 27 19:26:35 2025
+# Process ID: 11186
+# Current directory: /home/miguelon/Escritorio/HLS4ML_PROJECT/simple_vivado_simulation/vivado/top.runs/synth_1
+# Command line: vivado -log dut_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dut_wrapper.tcl
+# Log file: /home/miguelon/Escritorio/HLS4ML_PROJECT/simple_vivado_simulation/vivado/top.runs/synth_1/dut_wrapper.vds
+# Journal file: /home/miguelon/Escritorio/HLS4ML_PROJECT/simple_vivado_simulation/vivado/top.runs/synth_1/vivado.jou
+# Running On: miguelon-VMware-Virtual-Platform, OS: Linux, CPU Frequency: 3293.730 MHz, CPU Physical cores: 4, Host memory: 3517 MB
+#-----------------------------------------------------------
+source dut_wrapper.tcl -notrace

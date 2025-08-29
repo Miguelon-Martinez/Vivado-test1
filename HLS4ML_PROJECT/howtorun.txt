@@ -1,0 +1,5 @@
+Antes de tirar el vitis_hls:
+
+export LD_LIBRARY_PATH=/usr/lib/x86_64-linux-gnu:$LD_LIBRARY_PATH
+export PATH=/usr/bin:$PATH
+
